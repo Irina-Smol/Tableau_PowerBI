@@ -1,0 +1,6 @@
+![image](https://github.com/Irina-Smol/Tableau_PowerBI/assets/112115002/45fc7319-b1bf-4e1c-a065-92b4b3b9057a)
+![image](https://github.com/Irina-Smol/Tableau_PowerBI/assets/112115002/4c8f4a7e-21cc-4b01-9b86-a08a63cc13ad)
+![image](https://github.com/Irina-Smol/Tableau_PowerBI/assets/112115002/d6abc53f-aac8-4ab5-a202-268701294980)
+![image](https://github.com/Irina-Smol/Tableau_PowerBI/assets/112115002/8bbbce2b-25dc-4f7a-91b9-9ebd4d754997)
+![image](https://github.com/Irina-Smol/Tableau_PowerBI/assets/112115002/b38f608c-0a3b-498f-9665-eee0f366f21b)
+![image](https://github.com/Irina-Smol/Tableau_PowerBI/assets/112115002/216a37b7-9029-4c30-bf48-f399b91256c8)
