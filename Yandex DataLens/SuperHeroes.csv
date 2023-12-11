@@ -1,0 +1,735 @@
+﻿Name;Gender;Eye color;Race;Hair color;Height;Publisher;Skin color;Alignment;Weight
+Alien;Male;unknown;Xenomorph XX121;No Hair;244.0;Dark Horse Comics;black;bad;169.0
+Killer Frost;Female;blue;Human;Blond;;DC Comics;blue;bad;
+Mystique;Female;yellow (without irises);Mutant;Red / Orange;178.0;Marvel Comics;blue;bad;54.0
+Nebula;Female;blue;Luphomoid;No Hair;185.0;Marvel Comics;blue;bad;83.0
+Abe Sapien;Male;blue;Icthyo Sapien;No Hair;191.0;Dark Horse Comics;blue;good;65.0
+Dr Manhattan;Male;white;Human / Cosmic;No Hair;;DC Comics;blue;good;
+Shadow Lass;Female;black;Talokite;Black;173.0;DC Comics;blue;good;54.0
+Beast;Male;blue;Mutant;Blue;180.0;Marvel Comics;blue;good;181.0
+Archangel;Male;blue;Mutant;Blond;183.0;Marvel Comics;blue;good;68.0
+Copycat;Female;red;Mutant;White;183.0;Marvel Comics;blue;neutral;67.0
+Lobo;Male;red;Czarnian;Black;229.0;DC Comics;bluewhite;neutral;288.0
+Nova;Female;white;Human / Cosmic;Red;163.0;Marvel Comics;gold;good;59.0
+Ardina;Female;white;Alien;Orange;193.0;Marvel Comics;gold;good;98.0
+Living Tribunal;unknown;blue;Cosmic Entity;No Hair;;Marvel Comics;gold;neutral;
+K-2SO;Male;white;Android;No Hair;213.0;George Lucas;gray;good;
+Poison Ivy;Female;green;Human;Red;168.0;DC Comics;green;bad;50.0
+Brainiac;Male;green;Android;No Hair;198.0;DC Comics;green;bad;135.0
+Swamp Thing;Male;red;God / Eternal;No Hair;;DC Comics;green;bad;
+Killer Croc;Male;red;Metahuman;No Hair;244.0;DC Comics;green;bad;356.0
+Greedo;Male;purple;Rodian;unknown;170.0;George Lucas;green;bad;
+Evilhawk;Male;red;Alien;Black;191.0;Marvel Comics;green;bad;106.0
+Martian Manhunter;Male;red;Martian;No Hair;201.0;DC Comics;green;good;135.0
+Beast Boy;Male;green;Human;Green;173.0;DC Comics;green;good;68.0
+Yoda;Male;brown;Yoda's species;White;66.0;George Lucas;green;good;17.0
+Donatello;Male;green;Mutant;No Hair;;IDW Publishing;green;good;
+Leonardo;Male;blue;Mutant;No Hair;;IDW Publishing;green;good;
+Raphael;Male;unknown;Mutant;No Hair;;IDW Publishing;green;good;
+Michelangelo;Male;blue;Mutant;unknown;;IDW Publishing;green;good;
+Drax the Destroyer;Male;red;Human / Altered;No Hair;193.0;Marvel Comics;green;good;306.0
+Triton;Male;green;Inhuman;No Hair;188.0;Marvel Comics;green;good;86.0
+Fin Fang Foom;Male;red;Kakarantharaian;No Hair;975.0;Marvel Comics;green;good;18.0
+Man-Thing;Male;red;unknown;No Hair;213.0;Marvel Comics;green;good;225.0
+Hulk;Male;green;Human / Radiation;Green;244.0;Marvel Comics;green;good;630.0
+Mantis;Female;green;HumanKree;Black;168.0;Marvel Comics;green;good;52.0
+Gamora;Female;yellow;ZenWhoberian;Black;183.0;Marvel Comics;green;good;77.0
+Toad;Male;black;Mutant;Brown;175.0;Marvel Comics;green;neutral;76.0
+Darkseid;Male;red;New God;No Hair;267.0;DC Comics;grey;bad;817.0
+Tiger Shark;Male;grey;Human;No Hair;185.0;Marvel Comics;grey;bad;203.0
+Apocalypse;Male;red;Mutant;Black;213.0;Marvel Comics;grey;bad;135.0
+Godzilla;unknown;unknown;Kaiju;unknown;108.0;unknown;grey;bad;
+Century;Male;white;Alien;White;201.0;Marvel Comics;grey;good;97.0
+Starfire;Female;green;Tamaranean;Auburn;193.0;DC Comics;orange;good;71.0
+Jar Jar Binks;Male;yellow;Gungan;unknown;193.0;George Lucas;orange / white;good;
+Kilowog;Male;red;Bolovaxian;No Hair;234.0;DC Comics;pink;good;324.0
+Blink;Female;green;Mutant;Magenta;165.0;Marvel Comics;pink;good;56.0
+Purple Man;Male;purple;Human;Purple;180.0;Marvel Comics;purple;bad;74.0
+Thanos;Male;red;Eternal;No Hair;201.0;Marvel Comics;purple;bad;443.0
+Gladiator;Male;blue;Strontian;Blue;198.0;Marvel Comics;purple;neutral;268.0
+Trigon;Male;yellow;God / Eternal;Black;;DC Comics;red;bad;
+Klaw;Male;red;Human;No Hair;188.0;Marvel Comics;red;bad;97.0
+Exodus;Male;blue;Mutant;Black;183.0;Marvel Comics;red;bad;88.0
+Azazel;Male;yellow;Neyaphem;Black;183.0;Marvel Comics;red;bad;67.0
+Abin Sur;Male;blue;Ungaran;No Hair;185.0;DC Comics;red;good;90.0
+Vision;Male;gold;Android;No Hair;191.0;Marvel Comics;red;good;135.0
+Kool-Aid Man;Male;black;unknown;No Hair;;unknown;red;good;
+Sinestro;Male;black;Korugaran;Black;201.0;DC Comics;red;neutral;92.0
+Red Hulk;Male;yellow;Human / Radiation;Black;213.0;Marvel Comics;red;neutral;630.0
+Darth Maul;Male;yellow / red;Dathomirian Zabrak;unknown;170.0;George Lucas;red / black;bad;
+T-1000;Male;unknown;Android;unknown;183.0;Dark Horse Comics;silver;bad;146.0
+T-X;Female;unknown;Cyborg;unknown;;Dark Horse Comics;silver;bad;149.0
+Ultron;Male;red;Android;unknown;206.0;Marvel Comics;silver;bad;331.0
+Captain Atom;Male;blue;Human / Radiation;Silver;193.0;DC Comics;silver;good;90.0
+Silver Surfer;Male;white;Alien;No Hair;193.0;Marvel Comics;silver;good;101.0
+Joker;Male;green;Human;Green;196.0;DC Comics;white;bad;86.0
+Steppenwolf;Male;red;New God;Black;183.0;DC Comics;white;bad;91.0
+Blackout;Male;red;Demon;White;191.0;Marvel Comics;white;bad;104.0
+Spectre;Male;white;God / Eternal;No Hair;;DC Comics;white;good;
+Ymir;Male;white;Frost Giant;No Hair;304.8;Marvel Comics;white;good;
+Domino;Female;blue;Human;Black;173.0;Marvel Comics;white;good;54.0
+Bizarro;Male;black;Bizarro;Black;191.0;DC Comics;white;neutral;155.0
+Swarm;Male;yellow;Mutant;No Hair;196.0;Marvel Comics;yellow;bad;47.0
+Etrigan;Male;red;Demon;No Hair;193.0;DC Comics;yellow;neutral;203.0
+T-800;Male;red;Cyborg;unknown;;Dark Horse Comics;unknown;bad;176.0
+T-850;Male;red;Cyborg;unknown;;Dark Horse Comics;unknown;bad;198.0
+Predator;Male;unknown;Yautja;unknown;213.0;Dark Horse Comics;unknown;bad;234.0
+Doomsday;Male;red;Alien;White;244.0;DC Comics;unknown;bad;412.0
+Solomon Grundy;Male;black;Zombie;White;279.0;DC Comics;unknown;bad;437.0
+Granny Goodness;Female;blue;unknown;White;178.0;DC Comics;unknown;bad;115.0
+Professor Zoom;Male;blue;Human;Strawberry Blond;180.0;DC Comics;unknown;bad;81.0
+Giganta;Female;green;unknown;Red;62.5;DC Comics;unknown;bad;630.0
+Maxima;Female;brown;unknown;Red;180.0;DC Comics;unknown;bad;72.0
+Lightning Lord;Male;blue;unknown;Red;191.0;DC Comics;unknown;bad;95.0
+Plastique;Female;blue;unknown;Red;168.0;DC Comics;unknown;bad;55.0
+Siren;Female;blue;Atlantean;Purple;175.0;DC Comics;unknown;bad;72.0
+King Shark;Male;black;Animal;No Hair;;DC Comics;unknown;bad;
+Anti-Monitor;Male;yellow;God / Eternal;No Hair;61.0;DC Comics;unknown;bad;
+Lex Luthor;Male;green;Human;No Hair;188.0;DC Comics;unknown;bad;95.0
+Heat Wave;Male;blue;Human;No Hair;180.0;DC Comics;unknown;bad;81.0
+Black Manta;Male;black;Human;No Hair;188.0;DC Comics;unknown;bad;92.0
+Ra's Al Ghul;Male;green;Human;Grey;193.0;DC Comics;unknown;bad;97.0
+Metallo;Male;green;Android;Brown;196.0;DC Comics;unknown;bad;90.0
+Atlas;Male;blue;God / Eternal;Brown;198.0;DC Comics;unknown;bad;126.0
+Cheetah II;Female;green;Human;Brown;170.0;DC Comics;unknown;bad;55.0
+Deadshot;Male;brown;Human;Brown;185.0;DC Comics;unknown;bad;91.0
+Cheetah III;Female;brown;Human;Brown;175.0;DC Comics;unknown;bad;54.0
+Scarecrow;Male;blue;Human;Brown;183.0;DC Comics;unknown;bad;63.0
+Zoom;Male;red;unknown;Brown;185.0;DC Comics;unknown;bad;81.0
+Rick Flag;Male;blue;unknown;Brown;185.0;DC Comics;unknown;bad;85.0
+Cheetah;Female;green;Human;Blond;163.0;DC Comics;unknown;bad;50.0
+Mister Zsasz;Male;blue;Human;Blond;;DC Comics;unknown;bad;
+Ozymandias;Male;blue;Human;Blond;;DC Comics;unknown;bad;
+Harley Quinn;Female;blue;Human;Blond;170.0;DC Comics;unknown;bad;63.0
+Superboy-Prime;Male;blue;Kryptonian;Black / Blue;180.0;DC Comics;unknown;bad;77.0
+Cyborg Superman;Male;blue;Cyborg;Black;;DC Comics;unknown;bad;
+Gorilla Grodd;Male;yellow;Gorilla;Black;198.0;DC Comics;unknown;bad;270.0
+White Canary;Female;brown;Human;Black;;DC Comics;unknown;bad;
+Clock King;Male;blue;Human;Black;178.0;DC Comics;unknown;bad;78.0
+Penguin;Male;blue;Human;Black;157.0;DC Comics;unknown;bad;79.0
+General Zod;Male;black;Kryptonian;Black;;DC Comics;unknown;bad;
+Big Barda;Female;blue;New God;Black;188.0;DC Comics;unknown;bad;135.0
+Black Adam;Male;brown;unknown;Black;191.0;DC Comics;unknown;bad;113.0
+Warp;Male;brown;unknown;Black;173.0;DC Comics;unknown;bad;67.0
+Match;Male;black;unknown;Black;;DC Comics;unknown;bad;
+Amazo;Male;red;Android;unknown;257.0;DC Comics;unknown;bad;173.0
+Mister Mxyzptlk;Male;unknown;God / Eternal;unknown;;DC Comics;unknown;bad;
+Bane;Male;unknown;Human;unknown;203.0;DC Comics;unknown;bad;180.0
+Mister Freeze;Male;unknown;Human;unknown;183.0;DC Comics;unknown;bad;86.0
+Faora;Female;unknown;Kryptonian;unknown;;DC Comics;unknown;bad;
+Parademon;unknown;unknown;Parademon;unknown;;DC Comics;unknown;bad;
+Siren II;Female;black;unknown;unknown;;DC Comics;unknown;bad;
+Chameleon;Male;unknown;unknown;unknown;;DC Comics;unknown;bad;
+Gog;Male;unknown;unknown;unknown;;DC Comics;unknown;bad;
+Moloch;Male;unknown;unknown;unknown;;DC Comics;unknown;bad;
+Riddler;Male;unknown;unknown;unknown;;DC Comics;unknown;bad;
+Two-Face;Male;unknown;unknown;unknown;183.0;DC Comics;unknown;bad;82.0
+Darth Vader;Male;yellow;Cyborg;No Hair;198.0;George Lucas;unknown;bad;135.0
+Boba Fett;Male;brown;Human / Clone;Black;183.0;George Lucas;unknown;bad;
+Kylo Ren;Male;unknown;Human;unknown;;George Lucas;unknown;bad;
+Stormtrooper;Male;unknown;Human;unknown;183.0;George Lucas;unknown;bad;
+Red Mist;Male;unknown;unknown;unknown;;Icon Comics;unknown;bad;
+Anti-Spawn;Male;unknown;unknown;unknown;;Image Comics;unknown;bad;
+Billy Kincaid;Male;unknown;unknown;unknown;;Image Comics;unknown;bad;
+Cogliostro;Male;unknown;unknown;unknown;;Image Comics;unknown;bad;
+Curse;Male;unknown;unknown;unknown;;Image Comics;unknown;bad;
+Cy-Gor;Male;unknown;unknown;unknown;;Image Comics;unknown;bad;
+Overtkill;Male;unknown;unknown;unknown;;Image Comics;unknown;bad;
+Redeemer II;Male;unknown;unknown;unknown;;Image Comics;unknown;bad;
+Redeemer III;Male;unknown;unknown;unknown;;Image Comics;unknown;bad;
+Violator;Male;unknown;unknown;unknown;;Image Comics;unknown;bad;
+Angela;Female;unknown;unknown;unknown;;Image Comics;unknown;bad;
+Bomb Queen;Female;unknown;unknown;unknown;;Image Comics;unknown;bad;
+Sauron;Male;unknown;Maiar;unknown;279.0;J. R. R. Tolkien;unknown;bad;
+Utgard-Loki;Male;blue;Frost Giant;White;15.2;Marvel Comics;unknown;bad;58.0
+Mandarin;Male;blue;Human;White;188.0;Marvel Comics;unknown;bad;97.0
+Magneto;Male;grey;Mutant;White;188.0;Marvel Comics;unknown;bad;86.0
+Spider-Woman IV;Female;red;unknown;White;178.0;Marvel Comics;unknown;bad;58.0
+Tinkerer;Male;brown;unknown;White;163.0;Marvel Comics;unknown;bad;54.0
+Air-Walker;Male;blue;unknown;White;188.0;Marvel Comics;unknown;bad;108.0
+Venom;Male;blue;Symbiote;Strawberry Blond;191.0;Marvel Comics;unknown;bad;117.0
+Siryn;Female;blue;unknown;Strawberry Blond;168.0;Marvel Comics;unknown;bad;52.0
+Evil Deadpool;Male;white;Mutant;Red;188.0;Marvel Comics;unknown;bad;95.0
+Carnage;Male;green;Symbiote;Red;185.0;Marvel Comics;unknown;bad;86.0
+Scorpia;Female;green;unknown;Red;;Marvel Comics;unknown;bad;
+Goblin Queen;Female;green;unknown;Red;168.0;Marvel Comics;unknown;bad;50.0
+Arclight;Female;violet;unknown;Purple;173.0;Marvel Comics;unknown;bad;57.0
+Demogoblin;Male;red;Demon;No Hair;185.0;Marvel Comics;unknown;bad;95.0
+Lizard;Male;red;Human;No Hair;203.0;Marvel Comics;unknown;bad;230.0
+Mysterio;Male;brown;Human;No Hair;180.0;Marvel Comics;unknown;bad;79.0
+Vulture;Male;brown;Human;No Hair;180.0;Marvel Comics;unknown;bad;79.0
+Absorbing Man;Male;blue;Human;No Hair;193.0;Marvel Comics;unknown;bad;122.0
+Kingpin;Male;blue;Human;No Hair;201.0;Marvel Comics;unknown;bad;203.0
+Abomination;Male;green;Human / Radiation;No Hair;203.0;Marvel Comics;unknown;bad;441.0
+Onslaught;Male;red;Mutant;No Hair;305.0;Marvel Comics;unknown;bad;405.0
+Dormammu;Male;yellow;unknown;No Hair;185.0;Marvel Comics;unknown;bad;
+Bloodwraith;Male;white;unknown;No Hair;30.5;Marvel Comics;unknown;bad;
+Doppelganger;Male;white;unknown;No Hair;196.0;Marvel Comics;unknown;bad;104.0
+Fixer;unknown;red;unknown;No Hair;;Marvel Comics;unknown;bad;
+Leader;Male;green;unknown;No Hair;178.0;Marvel Comics;unknown;bad;63.0
+Vanisher;Male;green;unknown;No Hair;165.0;Marvel Comics;unknown;bad;79.0
+Annihilus;Male;green;unknown;No Hair;180.0;Marvel Comics;unknown;bad;90.0
+Red Skull;Male;blue;unknown;No Hair;188.0;Marvel Comics;unknown;bad;108.0
+Razor-Fist II;Male;blue;unknown;No Hair;191.0;Marvel Comics;unknown;bad;117.0
+Iron Monger;Male;blue;unknown;No Hair;;Marvel Comics;unknown;bad;2.0
+Yellow Claw;Male;blue;unknown;No Hair;188.0;Marvel Comics;unknown;bad;95.0
+Plantman;Male;green;Mutant;Grey;183.0;Marvel Comics;unknown;bad;87.0
+Hobgoblin;Male;blue;unknown;Grey;180.0;Marvel Comics;unknown;bad;83.0
+Molten Man;Male;gold;unknown;Gold;196.0;Marvel Comics;unknown;bad;248.0
+MODOK;Male;white;Cyborg;Brownn;366.0;Marvel Comics;unknown;bad;338.0
+Doctor Octopus;Male;brown;Human;Brown;175.0;Marvel Comics;unknown;bad;110.0
+Doctor Doom;Male;brown;Human;Brown;201.0;Marvel Comics;unknown;bad;187.0
+Scorpion;Male;brown;Human;Brown;211.0;Marvel Comics;unknown;bad;310.0
+Shocker;Male;brown;Human;Brown;175.0;Marvel Comics;unknown;bad;79.0
+Taskmaster;Male;brown;Human;Brown;188.0;Marvel Comics;unknown;bad;99.0
+Bloodaxe;Female;blue;Human;Brown;218.0;Marvel Comics;unknown;bad;495.0
+Rhino;Male;brown;Human / Radiation;Brown;196.0;Marvel Comics;unknown;bad;320.0
+Scarlet Witch;Female;blue;Mutant;Brown;170.0;Marvel Comics;unknown;bad;59.0
+Mister Knife;Male;blue;Spartoi;Brown;;Marvel Comics;unknown;bad;
+Venom III;Male;brown;Symbiote;Brown;229.0;Marvel Comics;unknown;bad;334.0
+Kang;Male;brown;unknown;Brown;191.0;Marvel Comics;unknown;bad;104.0
+Hydro-Man;Male;brown;unknown;Brown;188.0;Marvel Comics;unknown;bad;119.0
+Doctor Doom II;Male;brown;unknown;Brown;201.0;Marvel Comics;unknown;bad;132.0
+Blob;Male;brown;unknown;Brown;178.0;Marvel Comics;unknown;bad;230.0
+Blizzard II;Male;brown;unknown;Brown;175.0;Marvel Comics;unknown;bad;77.0
+Mach-IV;Male;brown;unknown;Brown;180.0;Marvel Comics;unknown;bad;79.0
+Big Man;Male;blue;unknown;Brown;165.0;Marvel Comics;unknown;bad;71.0
+Fabian Cortez;unknown;blue;unknown;Brown;196.0;Marvel Comics;unknown;bad;96.0
+Blizzard;Male;unknown;unknown;Brown;;Marvel Comics;unknown;bad;
+Fallen One II;Male;black;unknown;Blue;;Marvel Comics;unknown;bad;
+Bullseye;Male;blue;Human;blond;183.0;Marvel Comics;unknown;bad;90.0
+Sabretooth;Male;amber;Mutant;Blond;198.0;Marvel Comics;unknown;bad;171.0
+Omega Red;Male;red;unknown;Blond;211.0;Marvel Comics;unknown;bad;191.0
+Proto-Goblin;Male;green;unknown;Blond;;Marvel Comics;unknown;bad;
+Pyro;Male;blue;unknown;Blond;178.0;Marvel Comics;unknown;bad;68.0
+Moonstone;Female;blue;unknown;Blond;180.0;Marvel Comics;unknown;bad;59.0
+Loki;Male;green;Asgardian;Black;193.0;Marvel Comics;unknown;bad;236.0
+Hela;Female;green;Asgardian;Black;213.0;Marvel Comics;unknown;bad;225.0
+Abraxas;Male;blue;Cosmic Entity;Black;;Marvel Comics;unknown;bad;
+Ajax;Male;brown;Cyborg;Black;193.0;Marvel Comics;unknown;bad;90.0
+Lady Deathstrike;Female;brown;Cyborg;Black;175.0;Marvel Comics;unknown;bad;58.0
+Ammo;Male;brown;Human;Black;188.0;Marvel Comics;unknown;bad;101.0
+Kraven the Hunter;Male;brown;Human;Black;183.0;Marvel Comics;unknown;bad;106.0
+Diamondback;Male;brown;Human;Black;193.0;Marvel Comics;unknown;bad;90.0
+Cottonmouth;Male;brown;Human;Black;183.0;Marvel Comics;unknown;bad;99.0
+Kraven II;Male;brown;Human;Black;191.0;Marvel Comics;unknown;bad;99.0
+Walrus;Male;blue;Human;Black;183.0;Marvel Comics;unknown;bad;162.0
+Mister Sinister;Male;red;Human / Altered;Black;196.0;Marvel Comics;unknown;bad;128.0
+Morlun;Male;white / red;unknown;Black;188.0;Marvel Comics;unknown;bad;79.0
+Mephisto;Male;white;unknown;Black;198.0;Marvel Comics;unknown;bad;140.0
+Black Abbott;Male;red;unknown;Black;;Marvel Comics;unknown;bad;
+Black Mamba;Female;green;unknown;Black;170.0;Marvel Comics;unknown;bad;52.0
+Venom II;Male;brown;unknown;Black;175.0;Marvel Comics;unknown;bad;50.0
+Moses Magnum;Male;brown;unknown;Black;175.0;Marvel Comics;unknown;bad;72.0
+Changeling;Male;brown;unknown;Black;180.0;Marvel Comics;unknown;bad;81.0
+Frenzy;Female;brown;unknown;Black;211.0;Marvel Comics;unknown;bad;104.0
+Jigsaw;Male;blue;unknown;Black;188.0;Marvel Comics;unknown;bad;113.0
+Blackwing;Male;blue;unknown;Black;185.0;Marvel Comics;unknown;bad;86.0
+Callisto;Female;blue;unknown;Black;175.0;Marvel Comics;unknown;bad;74.0
+Lady Bullseye;Female;unknown;unknown;Black;;Marvel Comics;unknown;bad;
+Electro;Male;blue;Human;Auburn;180.0;Marvel Comics;unknown;bad;74.0
+Green Goblin;Male;blue;Human;Auburn;180.0;Marvel Comics;unknown;bad;83.0
+Green Goblin II;Male;blue;unknown;Auburn;178.0;Marvel Comics;unknown;bad;77.0
+Snake-Eyes;Male;unknown;Animal;unknown;;Marvel Comics;unknown;bad;
+Bird-Man;Male;unknown;Human;unknown;;Marvel Comics;unknown;bad;
+Bird-Man II;Male;unknown;Human;unknown;;Marvel Comics;unknown;bad;
+Junkpile;Male;unknown;Mutant;unknown;;Marvel Comics;unknown;bad;
+Sebastian Shaw;Male;unknown;Mutant;unknown;;Marvel Comics;unknown;bad;
+Spider-Carnage;Male;unknown;Symbiote;unknown;;Marvel Comics;unknown;bad;
+Living Brain;unknown;yellow;unknown;unknown;198.0;Marvel Comics;unknown;bad;360.0
+Magus;Male;black;unknown;unknown;183.0;Marvel Comics;unknown;bad;
+Beetle;Male;unknown;unknown;unknown;;Marvel Comics;unknown;bad;
+Blizzard;Male;unknown;unknown;unknown;;Marvel Comics;unknown;bad;
+Weapon XI;Male;unknown;unknown;unknown;;Marvel Comics;unknown;bad;
+Destroyer;Male;unknown;unknown;unknown;188.0;Marvel Comics;unknown;bad;383.0
+Ego;unknown;unknown;unknown;unknown;;Marvel Comics;unknown;bad;
+Elle Bishop;Female;blue;unknown;Blond;;NBC - Heroes;unknown;bad;
+Luke Campbell;Male;unknown;unknown;unknown;;NBC - Heroes;unknown;bad;
+Sylar;Male;unknown;unknown;unknown;;NBC - Heroes;unknown;bad;
+Vegeta;Male;unknown;Saiyan;Black;168.0;Shueisha;unknown;bad;73.0
+Chromos;Male;brown;unknown;Red / Grey;185.0;Team Epic TV;unknown;bad;86.0
+Alex Mercer;Male;unknown;Human;unknown;;Wildstorm;unknown;bad;
+Darkside;unknown;unknown;unknown;unknown;;unknown;unknown;bad;
+Stephanie Powell;Female;unknown;unknown;Blond;;ABC Studios;unknown;good;
+Jim Powell;Male;unknown;unknown;unknown;;ABC Studios;unknown;good;
+JJ Powell;Male;unknown;unknown;unknown;;ABC Studios;unknown;good;
+Daphne Powell;Female;unknown;unknown;unknown;;ABC Studios;unknown;good;
+Elastigirl;Female;brown;Human;Brown;168.0;Dark Horse Comics;unknown;good;56.0
+Jack-Jack;Male;blue;Human;Brown;71.0;Dark Horse Comics;unknown;good;14.0
+Buffy;Female;green;Human;Blond;157.0;Dark Horse Comics;unknown;good;52.0
+Mr Incredible;Male;blue;Human;Blond;201.0;Dark Horse Comics;unknown;good;158.0
+Dash;Male;blue;Human;Blond;122.0;Dark Horse Comics;unknown;good;27.0
+Hellboy;Male;gold;Demon;Black;259.0;Dark Horse Comics;unknown;good;158.0
+Violet Parr;Female;violet;Human;Black;137.0;Dark Horse Comics;unknown;good;41.0
+Captain Midnight;Male;unknown;Human;unknown;;Dark Horse Comics;unknown;good;
+Angel;Male;unknown;Vampire;unknown;;Dark Horse Comics;unknown;good;
+Johann Krauss;Male;unknown;unknown;unknown;;Dark Horse Comics;unknown;good;
+Liz Sherman;Female;unknown;unknown;unknown;;Dark Horse Comics;unknown;good;
+Krypto;Male;blue;Kryptonian;White;64.0;DC Comics;unknown;good;18.0
+Monarch;Male;blue;unknown;White;193.0;DC Comics;unknown;good;90.0
+Mera;Female;blue;Atlantean;Red;175.0;DC Comics;unknown;good;72.0
+Kid Flash;Male;green;Human;Red;;DC Comics;unknown;good;
+Citizen Steel;Male;green;Human;Red;183.0;DC Comics;unknown;good;170.0
+Ray;Male;green;Human;Red;178.0;DC Comics;unknown;good;70.0
+Red Arrow;Male;green;Human;Red;180.0;DC Comics;unknown;good;83.0
+Batwoman V;Female;green;Human;Red;178.0;DC Comics;unknown;good;
+Batgirl;Female;green;Human;Red;170.0;DC Comics;unknown;good;57.0
+Robin II;Male;blue;Human;Red;183.0;DC Comics;unknown;good;101.0
+Rorschach;Male;blue;Human;Red;168.0;DC Comics;unknown;good;63.0
+Oracle;Female;blue;Human;Red;178.0;DC Comics;unknown;good;59.0
+Guy Gardner;Male;blue;HumanVuldarian;Red;188.0;DC Comics;unknown;good;95.0
+Miss Martian;Female;red;unknown;Red;178.0;DC Comics;unknown;good;61.0
+Hawkwoman;Female;green;unknown;Red;175.0;DC Comics;unknown;good;54.0
+Hawkgirl;Female;green;unknown;Red;175.0;DC Comics;unknown;good;61.0
+Lightning Lad;Male;blue;unknown;Red;155.0;DC Comics;unknown;good;65.0
+Atom;Male;blue;unknown;Red;178.0;DC Comics;unknown;good;68.0
+Elongated Man;Male;blue;unknown;Red;185.0;DC Comics;unknown;good;80.0
+Misfit;Female;blue;unknown;Red;;DC Comics;unknown;good;
+Light Lass;Female;blue;unknown;Red;165.0;DC Comics;unknown;good;54.0
+Hawkwoman III;Female;blue;unknown;Red;170.0;DC Comics;unknown;good;65.0
+Atom III;Male;unknown;unknown;Red;;DC Comics;unknown;good;
+Fighting Spirit;Female;unknown;unknown;Red;;DC Comics;unknown;good;
+Red Tornado;Male;green;Android;No Hair;185.0;DC Comics;unknown;good;146.0
+Sobek;Male;white;unknown;No Hair;;DC Comics;unknown;good;
+Steel;Male;brown;unknown;No Hair;201.0;DC Comics;unknown;good;131.0
+Black Lightning;Male;brown;unknown;No Hair;185.0;DC Comics;unknown;good;90.0
+Metamorpho;Male;black;unknown;No Hair;185.0;DC Comics;unknown;good;90.0
+Flash;Male;blue;Human;Brown / White;180.0;DC Comics;unknown;good;81.0
+Jessica Cruz;Female;green;Human;Brown;;DC Comics;unknown;good;
+Speedy;Female;green;Human;Brown;;DC Comics;unknown;good;
+Karate Kid;Male;brown;Human;Brown;173.0;DC Comics;unknown;good;72.0
+Hal Jordan;Male;brown;Human;Brown;188.0;DC Comics;unknown;good;90.0
+Hawk;Male;red;unknown;Brown;185.0;DC Comics;unknown;good;89.0
+Triplicate Girl;Female;purple;unknown;Brown;168.0;DC Comics;unknown;good;59.0
+Micro Lad;Male;grey;unknown;Brown;183.0;DC Comics;unknown;good;77.0
+Osiris;Male;brown;unknown;Brown;;DC Comics;unknown;good;
+Blue Beetle;Male;blue;unknown;Brown;;DC Comics;unknown;good;
+Blue Beetle II;Male;blue;unknown;Brown;183.0;DC Comics;unknown;good;86.0
+Hawkman;Male;blue;unknown;Brown;185.0;DC Comics;unknown;good;88.0
+Aquaman;Male;blue;Atlantean;Blond;185.0;DC Comics;unknown;good;146.0
+Wonder Girl;Female;blue;DemiGod;Blond;165.0;DC Comics;unknown;good;51.0
+Green Arrow;Male;green;Human;Blond;188.0;DC Comics;unknown;good;88.0
+Rip Hunter;Male;blue;Human;Blond;;DC Comics;unknown;good;
+John Constantine;Male;blue;Human;Blond;183.0;DC Comics;unknown;good;
+Animal Man;Male;blue;Human;Blond;183.0;DC Comics;unknown;good;83.0
+Question;Male;blue;Human;Blond;188.0;DC Comics;unknown;good;83.0
+Flash II;Male;blue;Human;Blond;183.0;DC Comics;unknown;good;88.0
+Adam Strange;Male;blue;Human;Blond;185.0;DC Comics;unknown;good;88.0
+Doctor Fate;Male;blue;Human;Blond;188.0;DC Comics;unknown;good;89.0
+Booster Gold;Male;blue;Human;Blond;196.0;DC Comics;unknown;good;97.0
+Enchantress;Female;blue;Human;Blond;168.0;DC Comics;unknown;good;57.0
+Black Canary;Female;blue;Human;Blond;165.0;DC Comics;unknown;good;58.0
+Stargirl;Female;blue;Human;Blond;165.0;DC Comics;unknown;good;62.0
+Supergirl;Female;blue;Kryptonian;Blond;165.0;DC Comics;unknown;good;54.0
+Power Girl;Female;blue;Kryptonian;blond;180.0;DC Comics;unknown;good;81.0
+Black Canary;Female;blue;Metahuman;Blond;170.0;DC Comics;unknown;good;59.0
+Brainiac 5;Male;green;unknown;Blond;170.0;DC Comics;unknown;good;61.0
+Aquababy;Male;blue;unknown;Blond;;DC Comics;unknown;good;
+Magog;Male;blue;unknown;Blond;;DC Comics;unknown;good;
+Alan Scott;Male;blue;unknown;Blond;180.0;DC Comics;unknown;good;90.0
+Batgirl VI;Female;blue;unknown;Blond;168.0;DC Comics;unknown;good;61.0
+Donna Troy;Female;blue;Amazon;Black;175.0;DC Comics;unknown;good;63.0
+Wonder Woman;Female;blue;Amazon;Black;183.0;DC Comics;unknown;good;74.0
+Aqualad;Male;blue;Atlantean;Black;178.0;DC Comics;unknown;good;106.0
+Cyborg;Male;brown;Cyborg;Black;198.0;DC Comics;unknown;good;173.0
+Kyle Rayner;Male;green;Human;Black;180.0;DC Comics;unknown;good;79.0
+John Stewart;Male;green;Human;Black;185.0;DC Comics;unknown;good;90.0
+Batgirl IV;Female;green;Human;Black;165.0;DC Comics;unknown;good;52.0
+Catwoman;Female;green;Human;Black;175.0;DC Comics;unknown;good;61.0
+Azrael;Male;brown;Human;Black;;DC Comics;unknown;good;
+Blue Beetle III;Male;brown;Human;Black;;DC Comics;unknown;good;
+Vibe;Male;brown;Human;Black;178.0;DC Comics;unknown;good;71.0
+Bumblebee;Female;brown;Human;Black;170.0;DC Comics;unknown;good;59.0
+Simon Baz;Male;bown;Human;Black;;DC Comics;unknown;good;
+Captain Marvel;Male;blue;Human;Black;193.0;DC Comics;unknown;good;101.0
+Robin V;Male;blue;Human;Black;137.0;DC Comics;unknown;good;38.0
+Red Robin;Male;blue;Human;Black;165.0;DC Comics;unknown;good;56.0
+Robin III;Male;blue;Human;Black;165.0;DC Comics;unknown;good;56.0
+Alfred Pennyworth;Male;blue;Human;Black;178.0;DC Comics;unknown;good;72.0
+Captain Marvel II;Male;blue;Human;Black;175.0;DC Comics;unknown;good;74.0
+Batman;Male;blue;Human;Black;178.0;DC Comics;unknown;good;77.0
+Batman II;Male;blue;Human;Black;178.0;DC Comics;unknown;good;79.0
+Nightwing;Male;blue;Human;Black;178.0;DC Comics;unknown;good;79.0
+Robin;Male;blue;Human;Black;178.0;DC Comics;unknown;good;79.0
+Plastic Man;Male;blue;Human;Black;185.0;DC Comics;unknown;good;80.0
+Deadman;Male;blue;Human;Black;183.0;DC Comics;unknown;good;90.0
+Batman;Male;blue;Human;black;188.0;DC Comics;unknown;good;95.0
+Zatanna;Female;blue;Human;Black;170.0;DC Comics;unknown;good;57.0
+Vixen;Female;amber;Human;Black;175.0;DC Comics;unknown;good;63.0
+Kevin 11;Male;unknown;Human;Black;;DC Comics;unknown;good;
+Superman;Male;blue;Kryptonian;Black;191.0;DC Comics;unknown;good;101.0
+Static;Male;brown;Mutant;Black;170.0;DC Comics;unknown;good;63.0
+Firestorm;Male;brown;unknown;Black;;DC Comics;unknown;good;
+Atom IV;Male;brown;unknown;Black;;DC Comics;unknown;good;72.0
+Superboy;Male;blue;unknown;Black;170.0;DC Comics;unknown;good;68.0
+Metron;Male;blue;unknown;Black;185.0;DC Comics;unknown;good;86.0
+Phantom Girl;Female;blue;unknown;Black;168.0;DC Comics;unknown;good;54.0
+Huntress;Female;blue;unknown;Black;180.0;DC Comics;unknown;good;59.0
+Atom Girl;Female;black;unknown;Black;168.0;DC Comics;unknown;good;54.0
+Flash IV;Male;yellow;Human;Auburn;157.0;DC Comics;unknown;good;52.0
+Impulse;Male;yellow;Human;Auburn;170.0;DC Comics;unknown;good;65.0
+Atom II;Male;brown;Human;Auburn;183.0;DC Comics;unknown;good;81.0
+Firestorm;Male;blue;Human;Auburn;188.0;DC Comics;unknown;good;91.0
+Arsenal;Male;unknown;Human;unknown;;DC Comics;unknown;good;
+Bushido;Male;unknown;Human;unknown;;DC Comics;unknown;good;
+Speedy;Male;unknown;Human;unknown;;DC Comics;unknown;good;
+Space Ghost;Male;unknown;Human;unknown;188.0;DC Comics;unknown;good;113.0
+Flash III;Male;unknown;Human;unknown;183.0;DC Comics;unknown;good;86.0
+Jesse Quick;Female;unknown;Human;unknown;;DC Comics;unknown;good;
+Garbage Man;Male;unknown;Mutant;unknown;;DC Comics;unknown;good;
+Mogo;Male;unknown;Planet;unknown;;DC Comics;unknown;good;
+Atom;Male;unknown;unknown;unknown;;DC Comics;unknown;good;
+Aztar;Male;unknown;unknown;unknown;;DC Comics;unknown;good;
+Ben 10;Male;unknown;unknown;unknown;;DC Comics;unknown;good;
+Blue Beetle;Male;unknown;unknown;unknown;;DC Comics;unknown;good;
+Colossal Boy;Male;unknown;unknown;unknown;;DC Comics;unknown;good;
+ERG-1;Male;unknown;unknown;unknown;;DC Comics;unknown;good;
+Kid Flash II;Male;unknown;unknown;unknown;;DC Comics;unknown;good;
+Nite Owl II;Male;unknown;unknown;unknown;;DC Comics;unknown;good;
+Offspring;Male;unknown;unknown;unknown;;DC Comics;unknown;good;
+Phantom;Male;unknown;unknown;unknown;;DC Comics;unknown;good;
+Plastic Lad;Male;unknown;unknown;unknown;;DC Comics;unknown;good;
+Wildfire;Male;unknown;unknown;unknown;;DC Comics;unknown;good;
+Batgirl;Female;unknown;unknown;unknown;;DC Comics;unknown;good;
+Batgirl III;Female;unknown;unknown;unknown;;DC Comics;unknown;good;
+Batgirl V;Female;unknown;unknown;unknown;;DC Comics;unknown;good;
+Hawkwoman II;Female;unknown;unknown;unknown;;DC Comics;unknown;good;
+Isis;Female;unknown;unknown;unknown;;DC Comics;unknown;good;
+Shrinking Violet;Female;unknown;unknown;unknown;;DC Comics;unknown;good;
+Silk Spectre;Female;unknown;unknown;unknown;;DC Comics;unknown;good;
+Silk Spectre II;Female;unknown;unknown;unknown;;DC Comics;unknown;good;
+Rey;Female;hazel;Human;Brown;297.0;George Lucas;unknown;good;
+Jyn Erso;Female;green;Human;Brown;;George Lucas;unknown;good;
+Han Solo;Male;brown;Human;Brown;183.0;George Lucas;unknown;good;79.0
+Luke Skywalker;Male;blue;Human;Blond;168.0;George Lucas;unknown;good;77.0
+Indiana Jones;Male;unknown;Human;unknown;183.0;George Lucas;unknown;good;79.0
+Birdman;Male;unknown;God / Eternal;unknown;;Hanna-Barbera;unknown;good;
+Colin Wagner;Male;grey;unknown;Brown;;HarperCollins;unknown;good;
+Danny Cooper;Male;brown;unknown;Blond;;HarperCollins;unknown;good;
+Quantum;Male;unknown;unknown;unknown;;HarperCollins;unknown;good;
+Titan;Male;unknown;unknown;unknown;;HarperCollins;unknown;good;
+Energy;Female;unknown;unknown;unknown;;HarperCollins;unknown;good;
+Renata Soliz;Female;unknown;unknown;unknown;;HarperCollins;unknown;good;
+Kick-Ass;Male;blue;Human;Blond;;Icon Comics;unknown;good;
+Hit-Girl;Female;unknown;Human;unknown;;Icon Comics;unknown;good;
+Big Daddy;Male;unknown;unknown;unknown;;Icon Comics;unknown;good;
+Spawn;Male;brown;Demon;Black;211.0;Image Comics;unknown;good;405.0
+Savage Dragon;Male;unknown;unknown;unknown;;Image Comics;unknown;good;
+Harry Potter;Male;green;Human;Black;;J. K. Rowling;unknown;good;
+Firelord;unknown;white;unknown;Yellow;193.0;Marvel Comics;unknown;good;99.0
+Howard the Duck;Male;brown;unknown;Yellow;79.0;Marvel Comics;unknown;good;18.0
+Odin;Male;blue;God / Eternal;White;206.0;Marvel Comics;unknown;good;293.0
+Cable;Male;blue;Mutant;White;203.0;Marvel Comics;unknown;good;158.0
+Storm;Female;blue;Mutant;White;180.0;Marvel Comics;unknown;good;57.0
+Frigga;Female;blue;unknown;White;180.0;Marvel Comics;unknown;good;167.0
+Beak;Male;black;unknown;White;175.0;Marvel Comics;unknown;good;63.0
+Clea;unknown;unknown;unknown;White;;Marvel Comics;unknown;good;
+Banshee;Male;green;Human;Strawberry Blond;183.0;Marvel Comics;unknown;good;77.0
+Yellowjacket II;Female;blue;Human;Strawberry Blond;165.0;Marvel Comics;unknown;good;52.0
+Crimson Crusader;Male;blue;unknown;Strawberry Blond;;Marvel Comics;unknown;good;
+Vagabond;Female;blue;unknown;Strawberry Blond;168.0;Marvel Comics;unknown;good;54.0
+Quicksilver;Male;blue;Mutant;Silver;183.0;Marvel Comics;unknown;good;79.0
+Vertigo II;Female;blue;unknown;Silver;168.0;Marvel Comics;unknown;good;52.0
+Songbird;Female;green;unknown;Red / White;165.0;Marvel Comics;unknown;good;65.0
+Hyperion;Male;blue;Eternal;Red;183.0;Marvel Comics;unknown;good;207.0
+Vindicator;Female;green;Human;Red;165.0;Marvel Comics;unknown;good;54.0
+Daredevil;Male;blue;Human;Red;183.0;Marvel Comics;unknown;good;90.0
+Hellcat;Female;blue;Human;Red;173.0;Marvel Comics;unknown;good;61.0
+Crystal;Female;green;Inhuman;Red;168.0;Marvel Comics;unknown;good;50.0
+Medusa;Female;green;Inhuman;Red;180.0;Marvel Comics;unknown;good;59.0
+Jean Grey;Female;green;Mutant;Red;168.0;Marvel Comics;unknown;good;52.0
+Phoenix;Female;green;Mutant;Red;168.0;Marvel Comics;unknown;good;52.0
+Firestar;Female;green;Mutant;Red;173.0;Marvel Comics;unknown;good;56.0
+Atlas;Male;brown;Mutant;Red;183.0;Marvel Comics;unknown;good;101.0
+Hellstorm;Male;red;unknown;Red;185.0;Marvel Comics;unknown;good;81.0
+Thundra;Female;green;unknown;Red;218.0;Marvel Comics;unknown;good;158.0
+Hope Summers;Female;green;unknown;Red;168.0;Marvel Comics;unknown;good;48.0
+Marvel Girl;Female;green;unknown;Red;170.0;Marvel Comics;unknown;good;56.0
+Shatterstar;Male;brown;unknown;Red;191.0;Marvel Comics;unknown;good;88.0
+Hollow;Female;blue;unknown;Red;170.0;Marvel Comics;unknown;good;
+Ms Marvel II;Female;blue;unknown;Red;173.0;Marvel Comics;unknown;good;61.0
+Psylocke;Female;blue;Mutant;Purple;180.0;Marvel Comics;unknown;good;70.0
+Ariel;Female;purple;unknown;Pink;165.0;Marvel Comics;unknown;good;59.0
+Feral;unknown;yellow (without irises);unknown;Orange / White;175.0;Marvel Comics;unknown;good;50.0
+Sasquatch;Male;red;unknown;Orange;305.0;Marvel Comics;unknown;good;900.0
+Ghost Rider;Male;red;Demon;No Hair;188.0;Marvel Comics;unknown;good;99.0
+A-Bomb;Male;yellow;Human;No Hair;203.0;Marvel Comics;unknown;good;441.0
+Thing;Male;blue;Human / Radiation;No Hair;183.0;Marvel Comics;unknown;good;225.0
+She-Thing;Female;blue;Human / Radiation;No Hair;183.0;Marvel Comics;unknown;good;153.0
+Bishop;Male;brown;Mutant;No Hair;198.0;Marvel Comics;unknown;good;124.0
+Ink;Male;blue;Mutant;No Hair;180.0;Marvel Comics;unknown;good;81.0
+Professor X;Male;blue;Mutant;No Hair;183.0;Marvel Comics;unknown;good;86.0
+Bloodhawk;Male;black;Mutant;No Hair;;Marvel Comics;unknown;good;
+Morph;Male;white;unknown;No Hair;178.0;Marvel Comics;unknown;good;79.0
+Vision II;unknown;red;unknown;No Hair;191.0;Marvel Comics;unknown;good;135.0
+Crimson Dynamo;Male;brown;unknown;No Hair;180.0;Marvel Comics;unknown;good;104.0
+Blaquesmith;unknown;black;unknown;No Hair;;Marvel Comics;unknown;good;
+Beta Ray Bill;Male;unknown;unknown;No Hair;201.0;Marvel Comics;unknown;good;216.0
+Nightcrawler;Male;yellow;unknown;Indigo;175.0;Marvel Comics;unknown;good;88.0
+Deathlok;Male;brown;Cyborg;Grey;193.0;Marvel Comics;unknown;good;178.0
+Franklin Storm;unknown;blue;unknown;Grey;188.0;Marvel Comics;unknown;good;92.0
+Captain Planet;Male;red;God / Eternal;Green;;Marvel Comics;unknown;good;
+She-Hulk;Female;green;Human;Green;201.0;Marvel Comics;unknown;good;315.0
+Doc Samson;Male;blue;Human / Radiation;Green;198.0;Marvel Comics;unknown;good;171.0
+Polaris;Female;green;Mutant;Green;170.0;Marvel Comics;unknown;good;52.0
+Lyja;Female;green;unknown;Green;;Marvel Comics;unknown;good;
+Brother Voodoo;Male;brown;Human;Brown / White;183.0;Marvel Comics;unknown;good;99.0
+Nick Fury;Male;brown;Human;Brown / White;185.0;Marvel Comics;unknown;good;99.0
+Rogue;Female;green;unknown;Brown / White;173.0;Marvel Comics;unknown;good;54.0
+Box IV;unknown;brown;unknown;Brown / Black;;Marvel Comics;unknown;good;
+Rocket Raccoon;Male;brown;Animal;Brown;122.0;Marvel Comics;unknown;good;25.0
+Scarlet Spider II;Male;brown;Clone;Brown;193.0;Marvel Comics;unknown;good;113.0
+Hercules;Male;blue;DemiGod;Brown;196.0;Marvel Comics;unknown;good;146.0
+Spider-Man;unknown;red;Human;Brown;178.0;Marvel Comics;unknown;good;77.0
+Spider-Man;Male;hazel;Human;Brown;178.0;Marvel Comics;unknown;good;74.0
+Justice;Male;hazel;Human;Brown;178.0;Marvel Comics;unknown;good;81.0
+Moon Knight;Male;brown;Human;Brown;188.0;Marvel Comics;unknown;good;101.0
+Winter Soldier;Male;brown;Human;Brown;175.0;Marvel Comics;unknown;good;117.0
+Agent Bob;Male;brown;Human;Brown;178.0;Marvel Comics;unknown;good;81.0
+Darkhawk;Male;brown;Human;Brown;185.0;Marvel Comics;unknown;good;81.0
+Black Knight III;Male;brown;Human;Brown;183.0;Marvel Comics;unknown;good;86.0
+Nova;Male;brown;Human;Brown;185.0;Marvel Comics;unknown;good;86.0
+War Machine;Male;brown;Human;Brown;185.0;Marvel Comics;unknown;good;95.0
+Jessica Jones;Female;brown;Human;Brown;170.0;Marvel Comics;unknown;good;56.0
+Jack of Hearts;Male;blue / white;Human;Brown;155.0;Marvel Comics;unknown;good;79.0
+Gravity;Male;blue;Human;Brown;178.0;Marvel Comics;unknown;good;79.0
+Spider-Girl;Female;blue;Human;Brown;170.0;Marvel Comics;unknown;good;54.0
+Mister Fantastic;Male;brown;Human / Radiation;Brown;185.0;Marvel Comics;unknown;good;81.0
+Gambit;Male;red;Mutant;Brown;185.0;Marvel Comics;unknown;good;81.0
+Shadowcat;Female;hazel;Mutant;Brown;168.0;Marvel Comics;unknown;good;50.0
+Chamber;Male;brown;Mutant;Brown;175.0;Marvel Comics;unknown;good;63.0
+Iceman;Male;brown;Mutant;Brown;173.0;Marvel Comics;unknown;good;65.0
+Cyclops;Male;brown;Mutant;Brown;191.0;Marvel Comics;unknown;good;88.0
+Toxin;Male;blue;Symbiote;Brown;188.0;Marvel Comics;unknown;good;97.0
+Green Goblin IV;Male;green;unknown;Brown;178.0;Marvel Comics;unknown;good;79.0
+Mimic;Male;brown;unknown;Brown;188.0;Marvel Comics;unknown;good;101.0
+Ares;Male;brown;unknown;Brown;185.0;Marvel Comics;unknown;good;270.0
+Quill;Male;brown;unknown;Brown;163.0;Marvel Comics;unknown;good;56.0
+Corsair;Male;brown;unknown;Brown;191.0;Marvel Comics;unknown;good;79.0
+Spider-Woman III;Female;brown;unknown;Brown;173.0;Marvel Comics;unknown;good;55.0
+Cecilia Reyes;unknown;brown;unknown;Brown;170.0;Marvel Comics;unknown;good;62.0
+X-Man;Male;blue;unknown;Brown;175.0;Marvel Comics;unknown;good;61.0
+Multiple Man;Male;blue;unknown;Brown;180.0;Marvel Comics;unknown;good;70.0
+Thor;Male;blue;Asgardian;Blond;198.0;Marvel Comics;unknown;good;288.0
+Thor Girl;Female;blue;Asgardian;Blond;175.0;Marvel Comics;unknown;good;143.0
+Black Cat;Female;green;Human;Blond;178.0;Marvel Comics;unknown;good;54.0
+Hawkeye;Male;blue;Human;Blond;191.0;Marvel Comics;unknown;good;104.0
+Ronin;Male;blue;Human;Blond;191.0;Marvel Comics;unknown;good;104.0
+Captain America;Male;blue;Human;blond;188.0;Marvel Comics;unknown;good;108.0
+Captain Britain;Male;blue;Human;Blond;198.0;Marvel Comics;unknown;good;116.0
+Ant-Man;Male;blue;Human;Blond;211.0;Marvel Comics;unknown;good;122.0
+Longshot;Male;blue;Human;Blond;188.0;Marvel Comics;unknown;good;36.0
+Scarlet Spider;Male;blue;Human;Blond;178.0;Marvel Comics;unknown;good;74.0
+Iron Fist;Male;blue;Human;Blond;180.0;Marvel Comics;unknown;good;79.0
+Yellowjacket;Male;blue;Human;Blond;183.0;Marvel Comics;unknown;good;83.0
+Ant-Man II;Male;blue;Human;Blond;183.0;Marvel Comics;unknown;good;86.0
+Spider-Gwen;Female;blue;Human;Blond;165.0;Marvel Comics;unknown;good;56.0
+Mockingbird;Female;blue;Human;Blond;175.0;Marvel Comics;unknown;good;61.0
+Arachne;Female;blue;Human;Blond;175.0;Marvel Comics;unknown;good;63.0
+Human Torch;Male;blue;Human / Radiation;Blond;178.0;Marvel Comics;unknown;good;77.0
+Invisible Woman;Female;blue;Human / Radiation;Blond;168.0;Marvel Comics;unknown;good;54.0
+Captain Marvel;Female;blue;HumanKree;Blond;180.0;Marvel Comics;unknown;good;74.0
+Star-Lord;Male;blue;HumanSpartoi;Blond;188.0;Marvel Comics;unknown;good;79.0
+Spyke;Male;brown;Mutant;Blond;183.0;Marvel Comics;unknown;good;83.0
+Darkstar;Female;brown;Mutant;Blond;168.0;Marvel Comics;unknown;good;56.0
+Franklin Richards;Male;blue;Mutant;Blond;142.0;Marvel Comics;unknown;good;45.0
+Mr Immortal;Male;blue;Mutant;Blond;188.0;Marvel Comics;unknown;good;70.0
+Havok;Male;blue;Mutant;Blond;183.0;Marvel Comics;unknown;good;79.0
+Dazzler;Female;blue;Mutant;Blond;173.0;Marvel Comics;unknown;good;52.0
+Boom-Boom;Female;blue;Mutant;Blond;165.0;Marvel Comics;unknown;good;55.0
+Husk;Female;blue;Mutant;Blond;170.0;Marvel Comics;unknown;good;58.0
+Toxin;Male;black;Symbiote;Blond;191.0;Marvel Comics;unknown;good;117.0
+Snowbird;Female;white;unknown;Blond;178.0;Marvel Comics;unknown;good;49.0
+Warlock;Male;red;unknown;Blond;188.0;Marvel Comics;unknown;good;108.0
+Captain Mar-vell;Male;blue;unknown;Blond;188.0;Marvel Comics;unknown;good;108.0
+Thunderstrike;Male;blue;unknown;Blond;198.0;Marvel Comics;unknown;good;288.0
+Angel;Male;blue;unknown;Blond;183.0;Marvel Comics;unknown;good;68.0
+Cannonball;Male;blue;unknown;Blond;183.0;Marvel Comics;unknown;good;81.0
+Genesis;Male;blue;unknown;Blond;185.0;Marvel Comics;unknown;good;86.0
+Penance II;Male;blue;unknown;Blond;183.0;Marvel Comics;unknown;good;89.0
+Namorita;Female;blue;unknown;Blond;168.0;Marvel Comics;unknown;good;101.0
+Ultragirl;Female;blue;unknown;Blond;168.0;Marvel Comics;unknown;good;105.0
+Valkyrie;Female;blue;unknown;Blond;191.0;Marvel Comics;unknown;good;214.0
+Dagger;Female;blue;unknown;Blond;165.0;Marvel Comics;unknown;good;52.0
+Meltdown;Female;blue;unknown;Blond;165.0;Marvel Comics;unknown;good;54.0
+Binary;Female;blue;unknown;Blond;180.0;Marvel Comics;unknown;good;54.0
+Warbird;Female;blue;unknown;Blond;180.0;Marvel Comics;unknown;good;54.0
+Jennifer Kale;Female;blue;unknown;Blond;168.0;Marvel Comics;unknown;good;55.0
+Black Widow II;Female;blue;unknown;Blond;170.0;Marvel Comics;unknown;good;61.0
+Agent 13;Female;blue;unknown;Blond;173.0;Marvel Comics;unknown;good;61.0
+Cat;Female;blue;unknown;Blond;173.0;Marvel Comics;unknown;good;61.0
+Emma Frost;Female;blue;unknown;Blond;178.0;Marvel Comics;unknown;good;65.0
+White Queen;Female;blue;unknown;Blond;178.0;Marvel Comics;unknown;good;65.0
+Namora;Female;blue;unknown;Blond;180.0;Marvel Comics;unknown;good;85.0
+Box III;unknown;blue;unknown;Blond;193.0;Marvel Comics;unknown;good;110.0
+Cypher;unknown;blue;unknown;Blond;175.0;Marvel Comics;unknown;good;68.0
+Sif;Female;blue;Asgardian;Black;188.0;Marvel Comics;unknown;good;191.0
+Namor;Male;grey;Atlantean;Black;188.0;Marvel Comics;unknown;good;125.0
+Doctor Strange;Male;grey;Human;Black;188.0;Marvel Comics;unknown;good;81.0
+Spider-Woman;Female;green;Human;Black;178.0;Marvel Comics;unknown;good;59.0
+Guardian;Male;brown;Human;Black;;Marvel Comics;unknown;good;
+Falcon;Male;brown;Human;Black;188.0;Marvel Comics;unknown;good;108.0
+Luke Cage;Male;brown;Human;Black;198.0;Marvel Comics;unknown;good;191.0
+Spider-Man;Male;brown;Human;Black;157.0;Marvel Comics;unknown;good;56.0
+Shang-Chi;Male;brown;Human;Black;178.0;Marvel Comics;unknown;good;79.0
+Black Panther;Male;brown;Human;Black;183.0;Marvel Comics;unknown;good;90.0
+Silk;Female;brown;Human;Black;;Marvel Comics;unknown;good;
+Iron Man;Male;blue;Human;Black;198.0;Marvel Comics;unknown;good;191.0
+Punisher;Male;blue;Human;Black;183.0;Marvel Comics;unknown;good;90.0
+Hawkeye II;Female;blue;Human;Black;165.0;Marvel Comics;unknown;good;57.0
+Elektra;Female;blue;Human;Black;175.0;Marvel Comics;unknown;good;59.0
+Black Bolt;Male;blue;Inhuman;Black;188.0;Marvel Comics;unknown;good;95.0
+Angel Dust;Female;yellow;Mutant;Black;165.0;Marvel Comics;unknown;good;57.0
+Colossus;Male;silver;Mutant;Black;226.0;Marvel Comics;unknown;good;225.0
+Jubilee;Female;red;Mutant;Black;165.0;Marvel Comics;unknown;good;52.0
+Legion;Male;green / blue;Mutant;Black;175.0;Marvel Comics;unknown;good;59.0
+Warpath;Male;brown;Mutant;Black;218.0;Marvel Comics;unknown;good;158.0
+Sunspot;Male;brown;Mutant;black;173.0;Marvel Comics;unknown;good;77.0
+Wolverine;Male;blue;Mutant;Black;160.0;Marvel Comics;unknown;good;135.0
+Aurora;Female;blue;Mutant;Black;180.0;Marvel Comics;unknown;good;63.0
+Negasonic Teenage Warhead;Female;black;Mutant;Black;;Marvel Comics;unknown;good;
+X-23;Female;green;Mutant / Clone;Black;155.0;Marvel Comics;unknown;good;50.0
+Hybrid;Male;brown;Symbiote;Black;175.0;Marvel Comics;unknown;good;77.0
+Blade;Male;brown;Vampire;Black;188.0;Marvel Comics;unknown;good;97.0
+Shriek;Female;yellow / blue;unknown;Black;173.0;Marvel Comics;unknown;good;52.0
+Wonder Man;Male;red;unknown;Black;188.0;Marvel Comics;unknown;good;171.0
+Machine Man;unknown;red;unknown;Black;183.0;Marvel Comics;unknown;good;383.0
+Skaar;Male;green;unknown;Black;198.0;Marvel Comics;unknown;good;180.0
+Ripcord;Female;green;unknown;Black;180.0;Marvel Comics;unknown;good;72.0
+Thunderbird;Male;brown;unknown;Black;185.0;Marvel Comics;unknown;good;101.0
+Wyatt Wingfoot;Male;brown;unknown;Black;196.0;Marvel Comics;unknown;good;117.0
+Battlestar;Male;brown;unknown;Black;198.0;Marvel Comics;unknown;good;133.0
+Bantam;Male;brown;unknown;Black;165.0;Marvel Comics;unknown;good;54.0
+Cloak;Male;brown;unknown;black;226.0;Marvel Comics;unknown;good;70.0
+Thunderbird III;Male;brown;unknown;Black;175.0;Marvel Comics;unknown;good;74.0
+Synch;Male;brown;unknown;Black;180.0;Marvel Comics;unknown;good;74.0
+John Wraith;Male;brown;unknown;Black;183.0;Marvel Comics;unknown;good;88.0
+Goliath IV;Male;brown;unknown;Black;183.0;Marvel Comics;unknown;good;90.0
+Silverclaw;Female;brown;unknown;Black;157.0;Marvel Comics;unknown;good;50.0
+Angel Salvadore;Female;brown;unknown;Black;163.0;Marvel Comics;unknown;good;54.0
+Tempest;Female;brown;unknown;Black;163.0;Marvel Comics;unknown;good;54.0
+Firebird;Female;brown;unknown;Black;165.0;Marvel Comics;unknown;good;56.0
+Wiz Kid;unknown;brown;unknown;Black;140.0;Marvel Comics;unknown;good;39.0
+Forge;unknown;brown;unknown;Black;183.0;Marvel Comics;unknown;good;81.0
+Maverick;Male;blue;unknown;Black;193.0;Marvel Comics;unknown;good;110.0
+Northstar;Male;blue;unknown;Black;180.0;Marvel Comics;unknown;good;83.0
+Jolt;Female;blue;unknown;Black;165.0;Marvel Comics;unknown;good;49.0
+Sage;Female;blue;unknown;Black;170.0;Marvel Comics;unknown;good;61.0
+Vulcan;Male;black;unknown;Black;;Marvel Comics;unknown;good;
+Armor;Female;black;unknown;Black;163.0;Marvel Comics;unknown;good;50.0
+Black Widow;Female;green;Human;Auburn;170.0;Marvel Comics;unknown;good;59.0
+Wasp;Female;blue;Human;Auburn;163.0;Marvel Comics;unknown;good;50.0
+Wolfsbane;Female;green;unknown;Auburn;366.0;Marvel Comics;unknown;good;473.0
+Tigra;Female;green;unknown;Auburn;178.0;Marvel Comics;unknown;good;81.0
+Man-Wolf;Male;brown;unknown;Auburn;188.0;Marvel Comics;unknown;good;90.0
+Groot;Male;yellow;Flora Colossus;unknown;701.0;Marvel Comics;unknown;good;4.0
+Beyonder;Male;unknown;God / Eternal;unknown;;Marvel Comics;unknown;good;
+Captain Universe;unknown;unknown;God / Eternal;unknown;;Marvel Comics;unknown;good;
+Giant-Man;Male;unknown;Human;unknown;;Marvel Comics;unknown;good;
+Goliath;Male;unknown;Human;unknown;;Marvel Comics;unknown;good;
+Goliath;Male;unknown;Human;unknown;;Marvel Comics;unknown;good;
+Luna;Female;unknown;Human;unknown;;Marvel Comics;unknown;good;
+Power Man;Male;unknown;Mutant;unknown;;Marvel Comics;unknown;good;
+Cerebra;Female;unknown;Mutant;unknown;;Marvel Comics;unknown;good;
+Shadow King;unknown;red;unknown;unknown;185.0;Marvel Comics;unknown;good;149.0
+Black Goliath;Male;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Bolt;Male;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Box;Male;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Bumbleboy;Male;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Giant-Man II;Male;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Goliath;Male;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Leech;Male;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Namor;Male;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Speedball;Male;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Stardust;Male;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Thunderbird II;Male;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Vindicator;Male;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Watcher;Male;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Agent Zero;Male;unknown;unknown;unknown;191.0;Marvel Comics;unknown;good;104.0
+Green Goblin III;Male;unknown;unknown;unknown;183.0;Marvel Comics;unknown;good;88.0
+Boomer;Female;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Cat II;Female;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Meteorite;Female;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Penance I;Female;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Spider-Woman II;Female;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Stacy X;Female;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Wondra;Female;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Bling!;Female;unknown;unknown;unknown;168.0;Marvel Comics;unknown;good;68.0
+Bird-Brain;unknown;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Ghost Rider II;unknown;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Penance;unknown;unknown;unknown;unknown;;Marvel Comics;unknown;good;
+Master Chief;Male;brown;Human / Altered;Brown;213.0;Microsoft;unknown;good;
+Adam Monroe;Male;blue;unknown;Blond;;NBC - Heroes;unknown;good;
+Claire Bennet;Female;blue;unknown;Blond;;NBC - Heroes;unknown;good;
+Niki Sanders;Female;blue;unknown;Blond;;NBC - Heroes;unknown;good;
+Micah Sanders;Male;brown;unknown;Black;;NBC - Heroes;unknown;good;
+Nathan Petrelli;Male;brown;unknown;unknown;;NBC - Heroes;unknown;good;
+Alex Woolsly;Male;unknown;unknown;unknown;;NBC - Heroes;unknown;good;
+Ando Masahashi;Male;unknown;unknown;unknown;;NBC - Heroes;unknown;good;
+DL Hawkins;Male;unknown;unknown;unknown;;NBC - Heroes;unknown;good;
+Hiro Nakamura;Male;unknown;unknown;unknown;;NBC - Heroes;unknown;good;
+Matt Parkman;Male;unknown;unknown;unknown;;NBC - Heroes;unknown;good;
+Mohinder Suresh;Male;unknown;unknown;unknown;;NBC - Heroes;unknown;good;
+Peter Petrelli;Male;unknown;unknown;unknown;;NBC - Heroes;unknown;good;
+Jessica Sanders;Female;unknown;unknown;unknown;;NBC - Heroes;unknown;good;
+Maya Herrera;Female;unknown;unknown;unknown;;NBC - Heroes;unknown;good;
+Monica Dawson;Female;unknown;unknown;unknown;;NBC - Heroes;unknown;good;
+Tracy Strauss;Female;unknown;unknown;unknown;;NBC - Heroes;unknown;good;
+Judge Dredd;Male;unknown;Human;unknown;188.0;Rebellion;unknown;good;
+One Punch Man;Male;unknown;Human;No Hair;175.0;Shueisha;unknown;good;69.0
+Naruto Uzumaki;Male;unknown;Human;unknown;168.0;Shueisha;unknown;good;54.0
+Goku;Male;unknown;Saiyan;unknown;175.0;Shueisha;unknown;good;62.0
+Hancock;Male;brown;Human;Black;188.0;Sony Pictures;unknown;good;
+Paul Blart;Male;unknown;Human;unknown;170.0;Sony Pictures;unknown;good;117.0
+Captain Hindsight;Male;unknown;Human;Black;;South Park;unknown;good;
+Data;Male;yellow;Android;Brown;;Star Trek;unknown;good;
+James T. Kirk;Male;hazel;Human;Brown;178.0;Star Trek;unknown;good;77.0
+Spock;Male;brown;HumanVulcan;Black;185.0;Star Trek;unknown;good;81.0
+Jean-Luc Picard;Male;unknown;Human;unknown;;Star Trek;unknown;good;
+Kathryn Janeway;Female;unknown;Human;unknown;;Star Trek;unknown;good;
+Bill Harken;Male;unknown;Alpha;unknown;;SyFy;unknown;good;
+Cameron Hicks;Male;unknown;Alpha;unknown;;SyFy;unknown;good;
+Gary Bell;Male;unknown;Alpha;unknown;;SyFy;unknown;good;
+Nina Theroux;Female;unknown;Alpha;unknown;;SyFy;unknown;good;
+Rachel Pirzad;Female;unknown;Alpha;unknown;;SyFy;unknown;good;
+Captain Epic;Male;blue;unknown;Brown;188.0;Team Epic TV;unknown;good;
+Valerie Hart;Female;hazel;unknown;Black;175.0;Team Epic TV;unknown;good;56.0
+Omniscient;Male;brown;unknown;Black;180.0;Team Epic TV;unknown;good;65.0
+Master Brood;Male;blue;unknown;Black;183.0;Team Epic TV;unknown;good;81.0
+James Bond;Male;blue;Human;Blond;183.0;Titan Books;unknown;good;
+Darkman;Male;unknown;unknown;unknown;;Universal Studios;unknown;good;
+Allan Quatermain;Male;unknown;unknown;unknown;;Wildstorm;unknown;good;
+Minna Murray;Female;unknown;unknown;unknown;;Wildstorm;unknown;good;
+Ethan Hunt;Male;brown;Human;Brown;168.0;unknown;unknown;good;
+King Kong;Male;yellow;Animal;Black;30.5;unknown;unknown;good;
+Bionic Woman;Female;blue;Cyborg;Black;;unknown;unknown;good;
+Rambo;Male;brown;Human;Black;178.0;unknown;unknown;good;83.0
+Astro Boy;Male;brown;unknown;Black;;unknown;unknown;good;
+Jason Bourne;Male;unknown;Human;unknown;;unknown;unknown;good;
+Katniss Everdeen;Female;unknown;Human;unknown;;unknown;unknown;good;
+Flash Gordon;Male;unknown;unknown;unknown;;unknown;unknown;good;
+Jack Bauer;Male;unknown;unknown;unknown;;unknown;unknown;good;
+The Cape;Male;unknown;unknown;unknown;;unknown;unknown;good;
+Chuck Norris;Male;unknown;unknown;unknown;178.0;unknown;unknown;good;
+Deathstroke;Male;blue;Human;White;193.0;DC Comics;unknown;neutral;101.0
+Robin VI;Female;green;Human;Red;;DC Comics;unknown;neutral;
+Indigo;Female;unknown;Alien;Purple;;DC Comics;unknown;neutral;
+Captain Cold;Male;brown;Human;Brown;;DC Comics;unknown;neutral;
+Man-Bat;Male;brown;Human;Brown;;DC Comics;unknown;neutral;
+Raven;Female;indigo;Human;Black;165.0;DC Comics;unknown;neutral;50.0
+The Comedian;Male;brown;Human;Black;188.0;DC Comics;unknown;neutral;101.0
+Red Hood;Male;blue;Human;Black;183.0;DC Comics;unknown;neutral;81.0
+Black Flash;Male;unknown;God / Eternal;unknown;;DC Comics;unknown;neutral;
+Juggernaut;Male;blue;Human;Red;287.0;Marvel Comics;unknown;neutral;855.0
+Deadpool;Male;brown;Mutant;No Hair;188.0;Marvel Comics;unknown;neutral;95.0
+Sandman;Male;brown;Human;Brown;185.0;Marvel Comics;unknown;neutral;203.0
+Sentry;Male;blue;Mutant;Blond;188.0;Marvel Comics;unknown;neutral;87.0
+Galactus;Male;black;Cosmic Entity;Black;876.0;Marvel Comics;unknown;neutral;16.0
+One-Above-All;unknown;unknown;Cosmic Entity;unknown;;Marvel Comics;unknown;neutral;
+Trickster;Male;blue;Human;Blond;183.0;DC Comics;unknown;unknown;81.0
+Man of Miracles;unknown;blue;God / Eternal;Silver;;Image Comics;unknown;unknown;
+Blackwulf;Male;red;Alien;White;188.0;Marvel Comics;unknown;unknown;88.0
+Anti-Venom;Male;blue;Symbiote;Blond;229.0;Marvel Comics;unknown;unknown;358.0
+Venompool;Male;unknown;Symbiote;unknown;226.0;Marvel Comics;unknown;unknown;
+Q;Male;unknown;God / Eternal;unknown;;Star Trek;unknown;unknown;
+Brundlefly;Male;unknown;Mutant;unknown;193.0;unknown;unknown;unknown;
